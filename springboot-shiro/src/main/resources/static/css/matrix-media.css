@@ -3,15 +3,9 @@ body {
 }
 
 #header {
-	background-color: #1f262d;
-   margin-top:10px;
+    background-color: #438EB9;
 }
-#search input[type=text], #search button {
-	background-color: #28b779;
-}
-#search input[type=text]:focus {
-	color: #777777;
-}
+
 #sidebar > ul{border-bottom: 1px solid #37414b}
 #sidebar > ul > li {
 	border-top: 1px solid #37414b; border-bottom: 1px solid #1f262d;
